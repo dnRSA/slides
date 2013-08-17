@@ -1,0 +1,32 @@
+---
+title       : Adriatic Surface Sediments
+subtitle    : Environmental Characterisation via Biomarkers
+author      : Daniel Gray
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+github:
+  user: dnRSA
+  repo: test
+---
+
+## Overview
+
+1. Motivation
+2. Introduction
+3. Methods
+4. Data Assessment
+5. Results
+6. Discussion
+7. Summary
+
+--- .class #id 
+
+## Motivation
+
+
+
+
